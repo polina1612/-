@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище АптекаModelContainer" CdmEntityContainer="АптекаEntities">
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="АптекаModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Заказ">
+      <EntityTypeMapping TypeName="АптекаModel.Заказ">
+        <MappingFragment StoreEntitySet="Заказ">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ID_пользователя" ColumnName="ID_пользователя" />
+          <ScalarProperty Name="ID_пункта_выдачи" ColumnName="ID_пункта_выдачи" />
+          <ScalarProperty Name="Статус_заказа" ColumnName="Статус_заказа" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Заказ_Товар">
+      <EntityTypeMapping TypeName="АптекаModel.Заказ_Товар">
+        <MappingFragment StoreEntitySet="Заказ_Товар">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ID_заказа" ColumnName="ID_заказа" />
+          <ScalarProperty Name="ID_товара" ColumnName="ID_товара" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Пользователь">
+      <EntityTypeMapping TypeName="АптекаModel.Пользователь">
+        <MappingFragment StoreEntitySet="Пользователь">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="НомерТелефона" ColumnName="НомерТелефона" />
+          <ScalarProperty Name="Пароль" ColumnName="Пароль" />
+          <ScalarProperty Name="ФИО" ColumnName="ФИО" />
+          <ScalarProperty Name="Последняя_дата_входа" ColumnName="Последняя_дата_входа" />
+          <ScalarProperty Name="Роль" ColumnName="Роль" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Пункт_Выдачи">
+      <EntityTypeMapping TypeName="АптекаModel.Пункт_Выдачи">
+        <MappingFragment StoreEntitySet="Пункт_Выдачи">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Адрес_пункта_выдачи" ColumnName="Адрес_пункта_выдачи" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Роль_пользователя">
+      <EntityTypeMapping TypeName="АптекаModel.Роль_пользователя">
+        <MappingFragment StoreEntitySet="Роль_пользователя">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Название" ColumnName="Название" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Статус_заказа">
+      <EntityTypeMapping TypeName="АптекаModel.Статус_заказа">
+        <MappingFragment StoreEntitySet="Статус_заказа">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Описание_статуса" ColumnName="Описание_статуса" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Товар">
+      <EntityTypeMapping TypeName="АптекаModel.Товар">
+        <MappingFragment StoreEntitySet="Товар">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Наименование" ColumnName="Наименование" />
+          <ScalarProperty Name="Количество_на_складе" ColumnName="Количество_на_складе" />
+          <ScalarProperty Name="Цена" ColumnName="Цена" />
+          <ScalarProperty Name="Изображение" ColumnName="Изображение" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

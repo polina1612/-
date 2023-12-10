@@ -1,0 +1,78 @@
+﻿<Page x:Class="ЗдоровьеТут.Pages.PageZakaz"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ЗдоровьеТут.Pages"
+      xmlns:core ="clr-namespace:ЗдоровьеТут.Model"
+      mc:Ignorable="d" 
+      Loaded="Page_Loaded"
+      d:DesignHeight="360" d:DesignWidth="800"
+      Title="PageKatalogAP">
+    <Page.Resources>
+        <core:ListStatus x:Key="listStatus"/>
+        <core:ListPolzovatel x:Key="listPolzovatel"/>
+        <core:ListPunkt x:Key="listPunkt"/>
+    </Page.Resources>
+    <Grid 
+          ScrollViewer.CanContentScroll="True" 
+          ScrollViewer.VerticalScrollBarVisibility="Visible">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="340"/>
+            <ColumnDefinition Width="450"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="265"/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.Column="1" Background="#FF84E2A8" CornerRadius="15" Margin="0,10,0,10" >
+            <StackPanel Orientation="Horizontal">
+                <Label  Content="Заказы" FontSize="22" FontFamily="Rockwell Extra Bold" Foreground="#FF007A3D" Width="96" HorizontalAlignment="Right" Height="40" Margin="350 0 10 0"></Label>
+               
+            </StackPanel>
+        </Border>
+        <Border Grid.Row="1" Background="#FF84E2A8" CornerRadius="15"  Grid.ColumnSpan="2">
+            <DataGrid x:Name="DataGridEmployee" SelectionChanged="DataGridEmployee_SelectionChanged"
+Cursor="Hand"
+ItemsSource="{Binding}"
+AutoGenerateColumns="False"
+HorizontalAlignment="Center"
+MaxWidth="1000" MaxHeight="295"
+RowBackground="White"
+AlternatingRowBackground="White"
+BorderBrush="#FF007A3D"
+BorderThickness="3"
+RowHeight="40"
+FontSize="13"
+IsReadOnly="True"
+Width="701" 
+Margin="0,10,0,10"
+Foreground="#FF007A3D"
+Background="#FFFAFAFA">
+
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Номер заказа" Binding="{Binding ID, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                    <DataGridComboBoxColumn Header="Пользователь" 
+ ItemsSource="{Binding Source={StaticResource listPolzovatel}}"
+ DisplayMemberPath="ФИО"
+ SelectedValueBinding="{Binding Path=ID_пользователя, Mode=TwoWay,
+ UpdateSourceTrigger=PropertyChanged}"
+ SelectedValuePath="ID" />
+                    <DataGridComboBoxColumn Header="Пункт выдачи" 
+ ItemsSource="{Binding Source={StaticResource listPunkt}}"
+ DisplayMemberPath="Адрес_пункта_выдачи"
+ SelectedValueBinding="{Binding Path=ID_пункта_выдачи, Mode=TwoWay,
+ UpdateSourceTrigger=PropertyChanged}"
+ SelectedValuePath="ID" />
+                    <DataGridComboBoxColumn Header="Статус заказа" 
+ ItemsSource="{Binding Source={StaticResource listStatus}}"
+ DisplayMemberPath="Описание_статуса"
+ SelectedValueBinding="{Binding Path=Статус_заказа, Mode=TwoWay,
+ UpdateSourceTrigger=PropertyChanged}"
+ SelectedValuePath="ID" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </Border>
+    </Grid>
+</Page>

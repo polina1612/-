@@ -1,0 +1,178 @@
+C:\Users\Полинка\Documents\Проекты\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\ЗдоровьеТут.exe.config
+C:\Users\Полинка\Documents\Проекты\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\ЗдоровьеТут.exe
+C:\Users\Полинка\Documents\Проекты\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\ЗдоровьеТут.pdb
+C:\Users\Полинка\Documents\Проекты\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.csproj.AssemblyReference.cache
+C:\Users\Полинка\Documents\Проекты\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.csproj.SuggestedBindingRedirects.cache
+C:\Users\Полинка\Documents\Проекты\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\MainWindow.g.cs
+C:\Users\Полинка\Documents\Проекты\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\App.g.cs
+C:\Users\Полинка\Documents\Проекты\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут_MarkupCompile.cache
+C:\Users\Полинка\Documents\Проекты\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут_MarkupCompile.lref
+C:\Users\Полинка\Documents\Проекты\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\MainWindow.baml
+C:\Users\Полинка\Documents\Проекты\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.g.resources
+C:\Users\Полинка\Documents\Проекты\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.Properties.Resources.resources
+C:\Users\Полинка\Documents\Проекты\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.csproj.GenerateResource.cache
+C:\Users\Полинка\Documents\Проекты\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.csproj.CoreCompileInputs.cache
+C:\Users\Полинка\Documents\Проекты\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.exe
+C:\Users\Полинка\Documents\Проекты\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.pdb
+C:\Users\Полинка\Documents\Проекты\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\RegWindow.g.cs
+C:\Users\Полинка\Documents\Проекты\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\RegWindow.baml
+E:\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\ЗдоровьеТут.exe.config
+E:\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\ЗдоровьеТут.exe
+E:\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\ЗдоровьеТут.pdb
+E:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.csproj.AssemblyReference.cache
+E:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\AdminWindow.g.cs
+E:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\AutPWindow.g.cs
+E:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\MainWindow.g.cs
+E:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\PWindow.g.cs
+E:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\RegWindow.g.cs
+E:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\App.g.cs
+E:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут_MarkupCompile.cache
+E:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут_MarkupCompile.lref
+E:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\AdminWindow.baml
+E:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\AutPWindow.baml
+E:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\MainWindow.baml
+E:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\PWindow.baml
+E:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\RegWindow.baml
+E:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.g.resources
+E:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.Properties.Resources.resources
+E:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.csproj.GenerateResource.cache
+E:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.csproj.CoreCompileInputs.cache
+E:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.exe
+E:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.pdb
+D:\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\ЗдоровьеТут.exe.config
+D:\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\ЗдоровьеТут.exe
+D:\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\ЗдоровьеТут.pdb
+D:\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\EntityFramework.dll
+D:\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\EntityFramework.SqlServer.dll
+D:\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\EntityFramework.xml
+D:\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\EntityFramework.SqlServer.xml
+D:\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\ru\EntityFramework.resources.dll
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.csproj.AssemblyReference.cache
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.csproj.SuggestedBindingRedirects.cache
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\AdminWindow.g.cs
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\AutPWindow.g.cs
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\MainWindow.g.cs
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\PWindow.g.cs
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\RegWindow.g.cs
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\App.g.cs
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут_Content.g.cs
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут_MarkupCompile.cache
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут_MarkupCompile.lref
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\AdminWindow.baml
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\AutPWindow.baml
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\MainWindow.baml
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\PWindow.baml
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\RegWindow.baml
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.g.resources
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.Properties.Resources.resources
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.csproj.GenerateResource.cache
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.csproj.CoreCompileInputs.cache
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.csproj.CopyComplete
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.exe
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.pdb
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageKatalog.g.cs
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PagePolzovately.g.cs
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageZakaz.g.cs
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageKatalog.baml
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PagePolzovately.baml
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageZakaz.baml
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageKatalogP.g.cs
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageKatalogP.baml
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageKorzinaAP.g.cs
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageKorzinaAP.baml
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageKatalogAP.g.cs
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageKatalogAP.baml
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageZakaziAP.g.cs
+D:\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageZakaziAP.baml
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.csprojAssemblyReference.cache
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\AdminWindow.g.cs
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\AutPWindow.g.cs
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\MainWindow.g.cs
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageKatalog.g.cs
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageKatalogP.g.cs
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageKorzinaAP.g.cs
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PagePolzovately.g.cs
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageZakaz.g.cs
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageKatalogAP.g.cs
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageZakaziAP.g.cs
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\PWindow.g.cs
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\RegWindow.g.cs
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\App.g.cs
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут_Content.g.cs
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут_MarkupCompile.cache
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут_MarkupCompile.lref
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.exe
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.pdb
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\ЗдоровьеТут.exe.config
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\ЗдоровьеТут.exe
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\ЗдоровьеТут.pdb
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\EntityFramework.dll
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\EntityFramework.SqlServer.dll
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\EntityFramework.xml
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\EntityFramework.SqlServer.xml
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\ru\EntityFramework.resources.dll
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\AdminWindow.baml
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\AutPWindow.baml
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\MainWindow.baml
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageKatalog.baml
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageKatalogP.baml
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageKorzinaAP.baml
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PagePolzovately.baml
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageZakaz.baml
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageKatalogAP.baml
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageZakaziAP.baml
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\PWindow.baml
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\RegWindow.baml
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.g.resources
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.Properties.Resources.resources
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.csproj.GenerateResource.cache
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.csproj.CoreCompileInputs.cache
+E:\Users\nechitajlopju\Desktop\Курсовой проект 4 курс\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.csproj.CopyComplete
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.csproj.AssemblyReference.cache
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.csproj.SuggestedBindingRedirects.cache
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\AdminWindow.g.cs
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\AutPWindow.g.cs
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\MainWindow.g.cs
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageKatalog.g.cs
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageKorzinaAP.g.cs
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PagePolzovately.g.cs
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageZakaz.g.cs
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageKatalogAP.g.cs
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageZakaziAP.g.cs
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\PWindow.g.cs
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\RegWindow.g.cs
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\App.g.cs
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут_Content.g.cs
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут_MarkupCompile.cache
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут_MarkupCompile.lref
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.exe
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.pdb
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\ЗдоровьеТут.exe.config
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\ЗдоровьеТут.exe
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\ЗдоровьеТут.pdb
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\EntityFramework.dll
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\EntityFramework.SqlServer.dll
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\EntityFramework.xml
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\EntityFramework.SqlServer.xml
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\bin\Debug\ru\EntityFramework.resources.dll
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\AdminWindow.baml
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\AutPWindow.baml
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\MainWindow.baml
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageKatalog.baml
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageKorzinaAP.baml
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PagePolzovately.baml
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageZakaz.baml
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageKatalogAP.baml
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\Pages\PageZakaziAP.baml
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\PWindow.baml
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\RegWindow.baml
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.g.resources
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.Properties.Resources.resources
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.csproj.GenerateResource.cache
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.csproj.CoreCompileInputs.cache
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\ЗдоровьеТут.csproj.CopyComplete
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\WindowADD\WindowADDKatalog.g.cs
+D:\ВЫКРОЙКИ\ЗдоровьеТут\ЗдоровьеТут\obj\Debug\WindowADD\WindowADDKatalog.baml
